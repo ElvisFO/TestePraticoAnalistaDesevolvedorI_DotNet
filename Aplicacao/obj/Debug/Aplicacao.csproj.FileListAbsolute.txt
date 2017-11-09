@@ -1,0 +1,9 @@
+C:\Git\AnalistaDesevolvedorI_DotNet\Aplicacao\obj\Debug\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Git\AnalistaDesevolvedorI_DotNet\Aplicacao\bin\Debug\Aplicacao.exe.config
+C:\Git\AnalistaDesevolvedorI_DotNet\Aplicacao\bin\Debug\Aplicacao.exe
+C:\Git\AnalistaDesevolvedorI_DotNet\Aplicacao\bin\Debug\Aplicacao.pdb
+C:\Git\AnalistaDesevolvedorI_DotNet\Aplicacao\bin\Debug\Exercicios.dll
+C:\Git\AnalistaDesevolvedorI_DotNet\Aplicacao\bin\Debug\Exercicios.pdb
+C:\Git\AnalistaDesevolvedorI_DotNet\Aplicacao\obj\Debug\Aplicacao.csprojResolveAssemblyReference.cache
+C:\Git\AnalistaDesevolvedorI_DotNet\Aplicacao\obj\Debug\Aplicacao.exe
+C:\Git\AnalistaDesevolvedorI_DotNet\Aplicacao\obj\Debug\Aplicacao.pdb

@@ -1,0 +1,6 @@
+C:\Git\AnalistaDesevolvedorI_DotNet\Exercicios\obj\Debug\Exercicios.csprojResolveAssemblyReference.cache
+C:\Git\AnalistaDesevolvedorI_DotNet\Exercicios\obj\Debug\Exercicios.csproj.CoreCompileInputs.cache
+C:\Git\AnalistaDesevolvedorI_DotNet\Exercicios\bin\Debug\Exercicios.dll
+C:\Git\AnalistaDesevolvedorI_DotNet\Exercicios\bin\Debug\Exercicios.pdb
+C:\Git\AnalistaDesevolvedorI_DotNet\Exercicios\obj\Debug\Exercicios.dll
+C:\Git\AnalistaDesevolvedorI_DotNet\Exercicios\obj\Debug\Exercicios.pdb
